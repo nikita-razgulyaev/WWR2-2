@@ -306,7 +306,7 @@ main {
 }
 
 .main-content__title-container.--1 {
-  margin-top: 75px;
+  margin-top: 70px;
 }
 
 .main-content__title-container.--2 {
@@ -368,7 +368,7 @@ main {
 }
 
 .main-content__title-container.--16 {
-  margin-top: 45px;
+  margin-top: 40px;
 }
 
 .main-content__title-container.--17 {
@@ -760,11 +760,11 @@ footer {
 }
 
 .tooltiptext.--6 {
-  margin: 4495px 0 0 0;
+  margin: 4492px 0 0 20px;
 }
 
 .tooltiptext.--6::after  {
-  left: 340px;
+  left: 320px;
 }
 
 .tooltiptext.--7 {
@@ -808,7 +808,7 @@ footer {
 }
 
 .tooltiptext.--14 {
-  margin: 22325px 0 0 10px;
+  margin: 22337px 0 0 20px;
 }
 
 .tooltiptext.--15 {
@@ -820,5 +820,5 @@ footer {
 }
 
 .tooltiptext.--16 {
-  margin: 28753px 0 0 493px;
+  margin: 28758px 0 0 493px;
 }
